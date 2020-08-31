@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532943692323",
+    "firebase_url": "https://speech-recognition-6c421.firebaseio.com",
+    "project_id": "speech-recognition-6c421",
+    "storage_bucket": "speech-recognition-6c421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532943692323:android:25b8d95d315bbd938f8796",
+        "android_client_info": {
+          "package_name": "app.com.Speech_To_Text_Recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532943692323-8hs9b3jr3asceh608f2d7dvtbvao3cuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbjqXYHXGuOIrOh_5zKZVrOc2gBfNoIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532943692323-8hs9b3jr3asceh608f2d7dvtbvao3cuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
